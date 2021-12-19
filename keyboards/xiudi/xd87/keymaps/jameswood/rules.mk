@@ -1,3 +1,3 @@
-BOOTMAGIC_ENABLE = lite     # Enable Bootmagic Lite
+BOOTMAGIC_ENABLE = no
 COMMAND_ENABLE = yes
 RGBLIGHT_ENABLE = no
